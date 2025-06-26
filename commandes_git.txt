@@ -1,0 +1,9 @@
+Envoyer code:
+
+git add . 
+git commit -m 'explication'
+git push
+
+Prendre le code: 
+
+git pull
