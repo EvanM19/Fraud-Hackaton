@@ -1,9 +1,7 @@
-Envoyer code:
+Exporter le code:
+    git add . 
+    git commit -m 'explication'
+    git push
 
-git add . 
-git commit -m 'explication'
-git push
-
-Prendre le code: 
-
-git pull
+Importer le code: 
+    git pull
