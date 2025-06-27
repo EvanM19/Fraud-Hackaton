@@ -1,0 +1,18 @@
+Commandes git: 
+
+    Exporter le code:
+        git add . 
+        git commit -m 'explication'
+        git push
+
+    Importer le code: 
+        git 
+        
+Email: 
+    gouabeedi@gmail.com
+    joris.ayivi12@outlook.fr
+    gaetanblecon@gmail.com
+    moreauevan19@gmail.com
+
+Slides:
+    https://docs.google.com/presentation/d/1i6VlXRnaF3FXKecPNZdIJbRV3ovHgai3e8GTxQ3ubxk/edit?usp=sharing
