@@ -19,3 +19,10 @@ Slides:
 
 Google drive:
     https://drive.google.com/drive/folders/1BaeRd9OrgXKiya4f-m965F64hBPPn_FR?usp=drive_link
+
+Remarque: 
+    Isolation forest
+    Créer target
+    Boxplot 
+    Définir nous meme des seuils
+    Explicabilité des modèles shape, permutation, ...
